@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785674077651",
+    "firebase_url": "https://fir-usjr.firebaseio.com",
+    "project_id": "fir-usjr",
+    "storage_bucket": "fir-usjr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785674077651:android:915d125d8860ad17",
+        "android_client_info": {
+          "package_name": "com.example.clariceann.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785674077651-rfk8emdjom263bcrurd0f4taptv83nbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_1WVsbvquF54G_LjfXqXkGNYuSjAlTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
